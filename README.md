@@ -1,5 +1,4 @@
-# cs244
-Team Red-Tailed Hawk
+# Team Red-Tailed Hawk
 
 
 
