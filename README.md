@@ -1,10 +1,5 @@
 # Team Red-Tailed Hawk
 
-![Team Photo Placeholder](#)  
-*(From left to right: L’Hussen, Keely, Lara, Hannah)*
-
----
-
 ## 🌟 Goals for the Class
 
 - Discover our niche, or whether a topic truly interests us, as we try to reproduce a research paper in the realm of networking.  
@@ -30,10 +25,10 @@
 
 ## 🧠 Personality Quiz Results – Surprisingly Accurate!
 
-- **Keely** – [Planner profile.pdf](#)  
-- **Hannah** – [Perfectionist profile.pdf](#)  
+- **Keely** – Planner Profile  
+- **Hannah** – Perfectionist Profile
 - **L’Hussen** – Painter Profile  
-- **Lara** – [Team Player profile.pdf](#)
+- **Lara** – Team Player Profile
 
 ---
 
