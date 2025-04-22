@@ -23,4 +23,3 @@ def generate_hitlist(fsdb_path, output_path):
 generate_hitlist("cs244/internet_address_verfploeter_hitlist_it110w-20241211.fsdb", "hitlist_new.txt")
 
 
-
