@@ -8,3 +8,4 @@ configs/bird6/prefix-filters
 configs/bird6/route-announcements
 utils/prefix-propagation/*.out
 utils/prefix-propagation/*.log
+certs/
